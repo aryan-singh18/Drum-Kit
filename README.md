@@ -1,0 +1,2 @@
+# Drum Kit
+ The Drum Kit Project is an exciting web development endeavor that brings the joy of music creation to your fingertips. Inspired by the simplicity and versatility of drum kits, this project allows users to play various drum sounds by clicking on corresponding keyboard buttons. Whether you're a seasoned musician or a curious beginner, this interactive experience promises hours of rhythmic exploration and creative expression.
